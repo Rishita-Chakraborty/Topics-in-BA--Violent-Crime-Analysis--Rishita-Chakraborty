@@ -14,5 +14,5 @@ Here is a description to explain each of the files uploaded to GitHub:
 Together, these files provide a comprehensive approach to analyzing and predicting violent crime rates in California, including the source data, the methodology used in analysis, and the final report with key conclusions.
 
 
-*** Dataset:*** 
+### Dataset:
 U.S. Government. (n.d.). Violent crime rate. Data.gov. Retrieved from https://catalog.data.gov/dataset/violent-crime-rate-9a68e
