@@ -12,3 +12,7 @@ Here is a description to explain each of the files uploaded to GitHub:
    - **Description**: This is the raw dataset containing violent crime rates in California from 2000 to 2013. The CSV file includes various columns representing the year, crime rates, and potentially other demographic or geographic features relevant to violent crime in California during this period. This dataset is used as the primary input for analysis in the Jupyter Notebook and is the foundation for the modeling and insights presented in both the notebook and the PDF report. 
 
 Together, these files provide a comprehensive approach to analyzing and predicting violent crime rates in California, including the source data, the methodology used in analysis, and the final report with key conclusions.
+
+
+*** Dataset:*** 
+U.S. Government. (n.d.). Violent crime rate. Data.gov. Retrieved from https://catalog.data.gov/dataset/violent-crime-rate-9a68e
