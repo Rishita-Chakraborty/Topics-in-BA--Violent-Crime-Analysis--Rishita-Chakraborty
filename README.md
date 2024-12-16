@@ -2,7 +2,7 @@
 Violent Crime Rate Analysis and Prediction
 Here is a description to explain each of the files uploaded to GitHub:
 
-### 1. **Topics in BA - Violent Crimes -4.ipynb**
+### 1. **Topics in BA - Violent Crimes.ipynb**
    - **Description**: This is a Jupyter Notebook file containing the analysis and modeling of violent crime data in California. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, and the application of machine learning models to predict violent crime rates. Key techniques employed in the notebook might include data visualization, statistical analysis, and machine learning models such as regression or classification. The notebook aims to showcase various aspects of data analysis and the insights drawn from the violent crime data during the years 2000-2013.
 
 ### 2. **Topics in BA Mini Project.pdf**
